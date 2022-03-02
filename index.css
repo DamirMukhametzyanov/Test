@@ -1,0 +1,54 @@
+#main
+{
+    width: 80%;
+}
+
+#main header, #main footer
+{
+    background-color: yellow;
+    border: 0.5rem solid DodgerBlue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
+#main header
+{
+    font-size: 5rem;
+}
+
+#main footer
+{
+    font-size: 1.2rem;
+}
+
+.news_item_date
+{
+    margin-bottom: -0.3rem;
+}
+
+.news_item
+{
+    margin-bottom: 1rem;
+}
+
+#footer_ref
+{
+    text-align: left !important;
+}
+
+.link-img
+{
+    width: 2.2rem;
+    height: 2.2rem;
+}
+
+.link-a
+{
+    text-decoration: none;
+}
+
+.selected-ref
+{
+    background-color: yellow;
+}
